@@ -1,3 +1,4 @@
-## Welcome to John's Pages
+## Contact
 
-This is my page.
+email: cuckons[at]gmail.com
+weibo: https://www.weibo.com/cuckon
