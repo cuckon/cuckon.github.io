@@ -1,4 +1,5 @@
 ## Contact
 
-email: cuckons[at]gmail.com
-weibo: https://www.weibo.com/cuckon
+ - email: cuckons[at]gmail.com
+
+ - weibo: https://www.weibo.com/cuckon
