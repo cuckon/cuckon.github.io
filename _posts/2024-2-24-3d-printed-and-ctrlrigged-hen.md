@@ -1,3 +1,8 @@
+---
+author: John
+tags: UE control-rig blender
+---
+
 I was planning to start personal project of "Asymmetric Competitive Game". One of characters is a hen.
 
 ![Character](/assets/img/posts-202402/202402-3d.png)
@@ -13,6 +18,8 @@ The modelling and skinning was done in Blender. It was a fun experience but I qu
 ![blender](/assets/img/posts-202402/202402-3d-print.jpg)
 
 Since I had gone this far, I couldn't helping thinking that maybe I can 3d print it to make it more interesting. And turned out it's a big succuss! I really like it!
+
+It's worth noting that I painted the hen's beak and eyes with clear coat, which makes big difference on their roughness. It's the first time that I use clear coat in reality.
 
 ## Using it in UE
 
