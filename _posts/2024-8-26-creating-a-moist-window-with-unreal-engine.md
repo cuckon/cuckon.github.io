@@ -1,6 +1,7 @@
 ---
 author: John
 tags: UE Shader archive
+comments: true
 ---
 
 Here's a thread I posted on my [wordpress](https://johnsunet.wordpress.com/)(deprecated). In this thread I created a interactive moist window effect.
