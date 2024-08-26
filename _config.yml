@@ -4,3 +4,10 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 logo: /assets/img/avatar.jpg
 description: Hello, my name is John Su. Welcome to my homepage. I'm a senior technical director, technical artist, game engineer, VFX artist, and art-lover.
+defaults:
+      -
+        scope:
+          path: "" # an empty string here means all files in the project
+          type: posts # previously `post` in Jekyll 2.2.
+        values:
+          comments: true
