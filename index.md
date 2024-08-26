@@ -5,5 +5,3 @@
     </li>
   {% endfor %}
 </ul>
-
-<a href="https://hits.sh/cuckon.github.io/"><img alt="Hits" src="https://hits.sh/cuckon.github.io.svg"/></a>
